@@ -23,5 +23,12 @@ namespace Calculater
             int result = num1 * num2;
             return result;
         }
+		public int Divide(int num1, int num2)
+        {
+            int result = num1 / num2;
+            return result;
+        }
+		
+		
     }
 }
