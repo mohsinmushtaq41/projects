@@ -1,0 +1,5 @@
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterTest\bin\Debug\CalculaterTest.dll
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterTest\bin\Debug\CalculaterTest.pdb
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterTest\obj\Debug\CalculaterTest.csprojResolveAssemblyReference.cache
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterTest\obj\Debug\CalculaterTest.dll
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterTest\obj\Debug\CalculaterTest.pdb

@@ -1,0 +1,2 @@
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterPro\bin\Debug\CalculaterPro.exe.config
+c:\users\mohsin\documents\visual studio 2012\Projects\CalculaterPro\CalculaterPro\obj\Debug\CalculaterPro.csprojResolveAssemblyReference.cache
